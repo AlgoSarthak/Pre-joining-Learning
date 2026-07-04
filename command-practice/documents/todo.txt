@@ -1,0 +1,4 @@
+Personal todo list
+1. Buy groceries
+2. TODO: finish command-practice exercises
+3. Call dentist
